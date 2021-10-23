@@ -3,8 +3,8 @@
 <h1 align="center">Hi 👋, I'm Kristi Dodaj</h1>
 <h3 align="center">A passionate CS student located in Toronto, Canada 🇨🇦</h3>
 
+- 📚 I'm currently a student at UofT for CS & Mathematics Specialist (CO-OP)
 - 👀 I’m interested in computer science 👨‍💻, acting 🎬, and football(soccer) ⚽️ 
-- 🌱 I’m currently learning computer science at University of Toronto
 - 📫 Feel free to reach out at: kristidodaj001@gmail.com
 
 
