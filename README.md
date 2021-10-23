@@ -14,5 +14,5 @@
 
 Stats: 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiDodaj&hide=jupyter%20notebook,TeX&theme=tokyonights"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=KristiDodaj&count_private=true&theme=tokyonight"/>
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=KristiDodaj&count_private=true&theme=tokyonights"/>
 </div>
