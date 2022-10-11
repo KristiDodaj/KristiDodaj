@@ -8,11 +8,6 @@
 - 📫 Feel free to reach out at: kristidodaj001@gmail.com
 
 
-
-# 💫 About Me:
-A passionate CS student located in Toronto, Canada 🇨🇦<br><br>📚 I'm currently a student at UofT for CS & Mathematics Specialist (CO-OP)<br>👀 I’m interested in computer science 👨‍💻, acting 🎬, and football(soccer) ⚽️<br>📫 Feel free to reach out at: kristidodaj001@gmail.com
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kristidodaj/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20209904/kristi-dodaj) 
 
@@ -26,11 +21,3 @@ A passionate CS student located in Toronto, Canada 🇨🇦<br><br>📚 I'm curr
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
-<div>
-  
-Stats:  
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KristiDodaj&hide=jupyter%20notebook,TeX&theme=tokyonight"/>
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=KristiDodaj&count_private=true&theme=tokyonight"/>
-</div>
