@@ -5,7 +5,7 @@
 
 - 📚 I'm currently a student at UofT for CS Specialist (CO-OP)
 - 👀 I’m interested in computer science 👨‍💻, acting 🎬, and football(soccer) ⚽️ 
-- 📫 Feel free to reach out at: kristidodaj001@gmail.com
+- 📫 Feel free to reach out at: kristi.dodaj@mail.utoronto.ca
 
 
 ## 🌐 Socials:
