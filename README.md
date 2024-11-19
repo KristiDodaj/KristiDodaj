@@ -7,10 +7,6 @@
 - 👀 I’m interested in computer science 👨‍💻, acting 🎬, and football(soccer) ⚽️ 
 - 📫 Feel free to reach out at: kristi.dodaj@mail.utoronto.ca
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kristidodaj/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20209904/kristi-dodaj) 
-
 # 💻 Tech Stack:
 
 ### Programming Languages:
