@@ -5,7 +5,7 @@
 
 - 📚 I'm currently a Computer Science student @University of Toronto
 - 👀 I’m interested in SWE & ML 👨‍💻, acting 🎬, and football(soccer) ⚽️ 
-- 📫 Feel free to reach out at: kristi.dodaj@mail.utoronto.ca
+- 📫 Feel free to reach out at: kristidodaj001@gmail.com
 
 ---
 
