@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kristi Dodaj</h1>
 <h3 align="center">CS @ UofT • Building software + ML/infra things • Occasionally on set 🎬</h3>
 
-- 🎓 Computer Science @ University of Toronto (final stretch)
+- 🎓 Computer Science @ University of Toronto
 - 🧠 Currently: Member of Technical Staff @ Cohere (agentic systems / infra + integrations)
 - 🛠️ Previously: SWE internships (Wealthsimple, Sun Life)
 - 👀 Interests: SWE, ML, developer tooling, systems/infra, acting 🎬, soccer ⚽️, speedcubing 🧩
